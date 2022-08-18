@@ -28,8 +28,8 @@ Die Rote LED leuchtet sobald der Co2 Gehalte über 1500 ppm liegt und dringend g
 Ab einem Co2 Gehalt von über 2000 ppm blinkt die Rote LED 500/500 msec um die steigende Dringlichkeit zu unterstreichen.
 
 Hardware: 
-Microcontroller   NodeMCU ESP8266
-Display           adafruit SSD1306
+Microcontroller   NodeMCU ESP8266,
+Display           adafruit SSD1306,
 CO2 Sensor        Sensirion SCD30
 
 Pinbelegung NodeMCU ESP8266:
